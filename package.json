@@ -1,0 +1,19 @@
+{
+  "name": "setters",
+  "version": "1.0.0",
+  "description": "belajar express",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "wahyu setters",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

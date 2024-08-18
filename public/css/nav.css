@@ -1,0 +1,29 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.8rem 7%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 9999;
+    background-color: #878986;
+}
+
+.logo a{
+    font-size: 1rem;
+    color: white;
+    font-weight: bold;
+    text-shadow: 1.5px 1.5px 1px rgba(0, 0, 0, 0.719);
+}
+
+.menu {
+    display: flex;
+    gap: 2rem;
+}
+
+.menu a{
+    color: white;
+    text-shadow: 1.5px 1.5px 1px rgba(0, 0, 0, 0.719);
+}
